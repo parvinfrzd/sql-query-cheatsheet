@@ -19,6 +19,5 @@
 | ORDER BY                             | sort                                                                         |
 | ORDER BY ACS                         |                                                                              |
 | ORDER BY DESC                        |                                                                              |
-
 | LIMIT                                | limits the # of rows                                                         |
 
