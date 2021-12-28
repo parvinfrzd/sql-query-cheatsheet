@@ -1,1 +1,1 @@
-# SQL QUERY Cheat Sheet
+# SQL Query Cheat Sheet
