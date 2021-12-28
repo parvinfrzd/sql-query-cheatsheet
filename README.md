@@ -3,6 +3,7 @@
 | QUERY                                | DESCRIPTION                                                                  |
 | ------------------------------------ | ---------------------------------------------------------------------------- |
 | SELECT                               | allows us to choose which columns we see from a table                        |
+| SELECT COUNT (*)                     | how many rows are there                                                      |
 | SELECT DISCTINCT                     |                                                                              |
 | SELECT MIN MAX SUM COUNT AVG         |                                                                              |
 | FROM                                 | allows us to choose tables                                                   |
