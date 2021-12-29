@@ -21,4 +21,12 @@
 | ORDER BY ACS                         |                                                                              |
 | ORDER BY DESC                        |                                                                              |
 | LIMIT                                | limits the # of rows                                                         |
+| INNER JOIN                           | ONLY going to return the rows that each table share in common                |
+| LEFT JOIN                            | ALL from LEFT whether or not they are on RIGHT                               |
+| RIGHT JOIN                           | ALL from LEFT whether or not they are on RIGHT                               |
+| FULL OUTER JOIN                      |                                                                              |
 
+## Notes: 
+-   QUERY always reads FROM first 
+-   ... 
+-   
